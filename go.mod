@@ -1,3 +1,3 @@
-module github.com/plutonska/go-say-hello/v2
+module github.com/plutonska/go-say-hello
 
 go 1.22.3
